@@ -1,38 +1,365 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sriram
-===============================================================================================================================
+<div align="center">
 
-Cyber Security Student
-----------------------
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:1e1b4b&section=header&text=SRIRAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20Technology&descAlignY=62&descSize=18" width="100%" alt="Sriram profile header"/>
+</a>
 
-I'm a Cyber Security student passionate about building secure, efficient systems and developing full-stack applications.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Cybersecurity+Student+%7C+Ethical+Hacker+in+Training;Building+secure+software+from+the+first+commit;Web+Security+%7C+Linux+%7C+Networking+%7C+Full+Stack;Exploring+AI%2FML+for+security+and+automation" alt="Typing introduction"/>
 
-* 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [MyPortfolio](http://heyshree.site/)
-* ✉️  You can contact me at [srishree0607@gmail.com](mailto:srishree0607@gmail.com)
-* 🚀  I'm currently working on [MyApp](https://web-pulse-analytics.vercel.app/)
-* 🧠  I'm currently have Gen AI, Cyber Security
-* 👥  I'm looking to collaborate on Smartfixly
-* 💬  Ask me about I’m Sriram, a Cyber Security student with a passion for building secure, efficient systems and full-stack web applications. I enjoy combining creative design with robust code to deliver professional digital experiences. My interests include penetration testing, web development, learning new technologies, and designing interfaces. I’m constantly exploring ways to improve my skills and contribute to meaningful projects.
+<br/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+<img src="https://img.shields.io/badge/Cybersecurity-4C1D95?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/AI%2FML-6D28D9?style=for-the-badge&logo=openai&logoColor=white" alt="AI ML"/>
+<img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" alt="India"/>
+
+<br/><br/>
+
+<a href="https://www.google.com/maps/place/India">
+  <img src="https://img.shields.io/badge/Location-India-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</a>
+<a href="https://heyshreee.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sriram@example.com">
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/heyshreee">
+  <img src="https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=heyshreee&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/heyshreee?label=FOLLOWERS&color=6D28D9&style=flat-square" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/heyshreee?affiliations=OWNER%2CCOLLABORATOR&label=STARS&color=4C1D95&style=flat-square" alt="Stars"/>
+
+</div>
+
+---
+
+## About
+
+I am **Sriram**, a cybersecurity-focused software engineer in training with a strong interest in building secure, practical, and production-oriented technology.
+
+My work sits at the intersection of **cybersecurity, software engineering, AI/ML, automation, Linux, networking, and full-stack development**. I build projects to understand systems deeply rather than simply assembling tools.
+
+My engineering interests include:
+
+- **Software Engineering** — designing maintainable APIs, backend services, authentication systems, databases, and developer tooling.
+- **Cybersecurity** — web application security, reconnaissance, HTTP security, penetration testing, Linux security, CTFs, and defensive engineering.
+- **AI / ML** — experimenting with machine learning applications for automation, detection, classification, and intelligent developer workflows.
+- **Full Stack Development** — React, Vite, Tailwind CSS, Node.js, Express, REST APIs, MongoDB, and modern deployment workflows.
+- **Product Engineering** — turning ideas into complete systems with attention to architecture, security, usability, observability, and deployment.
+
+### Open To
+
+`Cybersecurity Internships` · `Software Engineering Internships` · `Security Engineering` · `Open Source` · `AI Security` · `Backend Engineering` · `Technical Collaborations`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bash&theme=dark" alt="Languages"/>
 </p>
 
-### Socials
+### Frontend
 
-<p align="left"> <a href="https://www.github.com/heyshreee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/heyshreee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/srishree0607" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@heyshreee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://heyshreee.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="http://www.medium.com/srishree0607" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/sriram_sriram_b5d5526a7b8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/sriram-sriram-41b52532b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/sriramsriram59" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.codepen.io/ensuzhyw-the-selector" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://codesandbox.io/u/srishree0607" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" alt="CodeSandbox" title="CodeSandbox" /> </picture> </a> <a href="https://discord.com/users/sriram0358" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.stackoverflow.com/users/sriram-sriram" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-<a href="https://www.github.com/heyshreee" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/heyshreee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/srishree0607" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/srishree0607?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+</p>
 
-### Support Me
+### Backend & Databases
 
-<ul style="list-style-type: none; margin: 0;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman&theme=dark" alt="Backend and databases"/>
+</p>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/srishree06a"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### Cloud, DevOps & Tooling
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/srishree06a"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,kali,docker,vercel,netlify,nginx,vscode&theme=dark" alt="Cloud DevOps and tooling"/>
+</p>
 
-</ul>
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Machine Learning Fundamentals | Intermediate | Model concepts, preprocessing, evaluation, and practical experimentation |
+| Applied ML | Intermediate | Classification and prediction-oriented project development |
+| AI Automation | Intermediate | Using AI APIs and automation concepts to improve workflows |
+| Security + AI | Developing | Exploring AI-assisted detection, analysis, and cybersecurity workflows |
+| Python for ML | Intermediate | Data processing, scripting, experimentation, and automation |
+| NLP | Developing | Interested in text classification and intelligent security tooling |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>SmartFixly — AI-Assisted Civic Complaint Platform</strong></summary>
+
+SmartFixly is a civic technology platform focused on structured citizen reporting, intelligent complaint processing, verification, tracking, and map-based issue management.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | React, Tailwind CSS, JavaScript, APIs, Maps |
+| **Scale** | Multi-feature civic platform architecture |
+| **Performance** | Component-driven frontend and API-oriented workflow |
+| **Security** | Identity verification, duplicate prevention, controlled workflows |
+| **Impact** | Simplifies reporting and tracking of public infrastructure issues |
+| **Repository** | [GitHub](https://github.com/heyshreee/smart-fixly) |
+
+Key engineering areas include citizen verification, AI-based categorization, real-time complaint tracking, duplicate complaint prevention, map integration, and structured complaint workflows.
+
+</details>
+
+<details>
+<summary><strong>Resume Builder — Full Stack Resume Platform</strong></summary>
+
+A full-stack resume creation platform with authentication, resume generation, and printable resume output.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | React, Node.js, Express, MongoDB / JSON storage, JWT |
+| **Scale** | Full-stack web application |
+| **Performance** | Lightweight SPA architecture with reusable components |
+| **Security** | Authentication, password hashing, token-based access |
+| **Impact** | Enables users to create and export professional resumes |
+| **Repository** | [GitHub](https://github.com/heyshreee) |
+
+The project focuses on practical backend architecture, authentication, API integration, and frontend-to-backend communication.
+
+</details>
+
+<details>
+<summary><strong>Captain Code — Cybersecurity Portfolio</strong></summary>
+
+A cybersecurity-oriented developer portfolio built around a distinctive terminal/comic visual identity.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | HTML, Tailwind CSS, JavaScript |
+| **Scale** | Personal developer portfolio |
+| **Performance** | Lightweight static architecture |
+| **Security** | Security-focused presentation and engineering messaging |
+| **Impact** | Presents cybersecurity work, skills, and projects |
+| **Repository** | [GitHub](https://github.com/heyshreee/Captain-Code-Portfolio) |
+
+The portfolio experiments with terminal interfaces, cyberpunk-inspired interactions, project presentation, and developer branding.
+
+</details>
+
+<details>
+<summary><strong>WeatherMoodApp — Location-Aware Weather Experience</strong></summary>
+
+A weather application combining live weather information with location-aware visuals and a dynamic interface.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | JavaScript, Bootstrap, OpenWeatherMap API |
+| **Scale** | Client-side web application |
+| **Performance** | API-driven lightweight frontend |
+| **Security** | External API integration with controlled client usage |
+| **Impact** | Interactive weather visualization with location support |
+| **Repository** | [GitHub](https://github.com/heyshreee/WeatherMoodApp) |
+
+The project integrates weather APIs, geolocation, dynamic visuals, and responsive UI behavior.
+
+</details>
+
+<details>
+<summary><strong>HTTP Header Analyser — Security Tooling</strong></summary>
+
+A Python-based security utility focused on inspecting HTTP response headers and surfacing security-relevant configuration.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Python |
+| **Scale** | CLI security utility |
+| **Performance** | Lightweight request and analysis workflow |
+| **Security** | Security-header inspection and configuration analysis |
+| **Impact** | Helps identify missing or weak HTTP security controls |
+| **Repository** | [GitHub](https://github.com/heyshreee/http-header-analyser-using-python) |
+
+Built as a practical cybersecurity learning project for understanding HTTP response behavior and common web security headers.
+
+</details>
+
+---
+
+## Experience
+
+### Cybersecurity Learner & Developer
+**Independent Projects & Technical Learning**
+
+`2024 — Present`
+
+I build security-oriented and software engineering projects while developing practical expertise in Linux, networking, web security, backend systems, and automation.
+
+- Developing cybersecurity projects and command-line security utilities.
+- Practicing reconnaissance, HTTP analysis, web security, and penetration-testing fundamentals.
+- Building REST APIs and full-stack applications with modern JavaScript tooling.
+- Working with Linux and Kali Linux for security experimentation and system administration.
+- Exploring AI/ML applications for security automation and intelligent tooling.
+- Using Git and GitHub for source control, portfolio development, and project documentation.
+
+`Cybersecurity` `Ethical Hacking` `Linux` `Networking` `Web Security` `Python` `React` `Node.js` `MongoDB` `Git`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| **Cybersecurity Projects** | Built practical security-focused tools and web security projects |
+| **Smart India Hackathon** | Worked on the SmartFixly civic technology project |
+| **Open Source & GitHub** | Maintains public repositories documenting engineering experiments |
+| **Technical Learning** | Hands-on practice across cybersecurity, software engineering, Linux, and networking |
+| **Portfolio Engineering** | Built multiple production-style web applications and developer platforms |
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Learning%20%7C%20Cloud%20Foundations-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Learning%20%7C%20Developer%20Technologies-5B21B6?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-6D28D9?style=for-the-badge&logo=education&logoColor=white" alt="NPTEL"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20%7C%20Cybersecurity-312E81?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=heyshreee&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyshreee&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="49%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyshreee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heyshreee&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyshreee&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/heyshreee/heyshreee/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+profile:
+  name: Sriram
+  username: heyshreee
+  focus:
+    - Cybersecurity
+    - Software Engineering
+    - AI / ML
+    - Full Stack Development
+
+learning:
+  - Web Application Security
+  - HTTP Security
+  - Networking
+  - Linux & Kali Linux
+  - Penetration Testing
+  - Machine Learning
+  - Secure Backend Architecture
+
+building:
+  - Cybersecurity Tools
+  - REST APIs
+  - Full Stack Applications
+  - Developer Portfolio Systems
+  - Security-focused Automation
+
+exploring:
+  - AI for Cybersecurity
+  - Security Automation
+  - Secure Software Engineering
+  - Cloud Security
+  - Open Source Security Tooling
+
+open_to:
+  - Cybersecurity Internships
+  - Software Engineering Internships
+  - Security Engineering
+  - Open Source Collaboration
+  - Technical Projects
