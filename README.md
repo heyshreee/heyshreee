@@ -23,7 +23,7 @@
 <a href="https://github.com/heyshreee">
   <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="www.linkedin.com/in/sriram-senthilkumar-41b52532b">
+<a href="https://www.linkedin.com/in/sriram-senthilkumar-41b52532b">
   <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
