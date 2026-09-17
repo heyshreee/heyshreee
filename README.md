@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
+<a href="https://heyshree.site/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:1e1b4b&section=header&text=SRIRAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Full%20Stack%20%7C%20Game%20Dev&descAlignY=62&descSize=18" width="100%" alt="Sriram profile header"/>
 </a>
 
@@ -26,7 +26,9 @@
 <a href="https://www.linkedin.com/in/sriram-senthilkumar-41b52532b">
   <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+<a href="https://heyshree.site">
+  <img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+</a>
 </div>
 
 ## 💻 Tech Stack
